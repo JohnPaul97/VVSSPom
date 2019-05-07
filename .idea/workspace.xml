@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/biblioteca/control/BibliotecaCtrl.java" line="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b734b3d-8328-407f-9b83-52674c06a0c0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/biblioteca/control/BigBangTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/biblioteca/control/TopDownTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VVSS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/VVSS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cartiBD.dat" beforeDir="false" afterPath="$PROJECT_DIR$/cartiBD.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/repository/repo/CartiRepoFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/repository/repo/CartiRepoFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/repository/repoMock/CartiRepoMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/repository/repoMock/CartiRepoMock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/view/Consola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/view/Consola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/biblioteca/control/BibliotecaCtrlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/biblioteca/control/BibliotecaCtrlTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/biblioteca/begin/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/biblioteca/begin/Start.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/biblioteca/control/BibliotecaCtrl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/biblioteca/control/BibliotecaCtrl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/biblioteca/model/Carte.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/biblioteca/model/Carte.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/biblioteca/repository/repo/CartiRepoFile$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/biblioteca/repository/repo/CartiRepoFile$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/biblioteca/repository/repo/CartiRepoFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/biblioteca/repository/repo/CartiRepoFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/biblioteca/repository/repoInterfaces/CartiRepoInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/biblioteca/repository/repoInterfaces/CartiRepoInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/biblioteca/repository/repoMock/CartiRepoMock$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/biblioteca/repository/repoMock/CartiRepoMock$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/biblioteca/repository/repoMock/CartiRepoMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/biblioteca/repository/repoMock/CartiRepoMock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/biblioteca/util/CarteValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/biblioteca/util/CarteValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/biblioteca/view/Consola.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/biblioteca/view/Consola.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/biblioteca/control/BibliotecaCtrlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/biblioteca/control/BibliotecaCtrlTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/biblioteca/repository/repoMock/CartiRepoMockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/biblioteca/repository/repoMock/CartiRepoMockTest.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/control/BibliotecaCtrl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/biblioteca/control/TopDownTesting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/biblioteca/control/BigBangTesting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/view/Consola.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/util/CarteValidator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="e#1323#1324#0" expanded="true" />
+                <element signature="e#1360#1361#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/begin/Start.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/biblioteca/repository/repoMock/CartiRepoMockTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name</find>
+      <find>nu e numar</find>
+      <find>getcarte</find>
+      <find>carte</find>
+      <find>an aparitie in</find>
+      <find>console</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\An3\semestru2\VVS\repo\Labs\Lab01\src\main\java\biblioteca\repository\repo</dir>
+      <dir>E:\An3\semestru2\VVS\repo\Labs\Lab01\src\main\java</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/biblioteca/util/Validator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/biblioteca/control/BibliotecaCtrl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/biblioteca/repository/repo/CartiRepo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/biblioteca/repository/repo/FileCartiRepo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/biblioteca/begin/Start.java" />
+        <option value="$PROJECT_DIR$/src/main/java/biblioteca/repository/repoInterfaces/CartiRepoInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/biblioteca/model/Carte.java" />
+        <option value="$PROJECT_DIR$/src/main/java/biblioteca/util/CarteValidator.java" />
+        <option value="$PROJECT_DIR$/cartiBD.dat" />
+        <option value="$PROJECT_DIR$/src/test/java/biblioteca/repository/repo/CartiRepoFileTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/biblioteca/repository/repoMock/CartiRepoMockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/biblioteca/repository/repo/CartiRepoFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/biblioteca/repository/repoMock/CartiRepoMock.java" />
+        <option value="$PROJECT_DIR$/src/test/java/biblioteca/control/BibliotecaCtrlTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/biblioteca/view/Consola.java" />
+        <option value="$PROJECT_DIR$/src/test/java/biblioteca/control/TopDownTesting.java" />
+        <option value="$PROJECT_DIR$/src/test/java/biblioteca/control/BigBangTesting.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cpir2084" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cpir2084" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="repoInterfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cpir2084" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="biblioteca" type="462c0819:PsiDirectoryNode" />
+              <item name="control" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files (x86)/nodejs/node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33444443" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="biblioteca.control" />
+      <recent name="biblioteca.repository.repoMock" />
+      <recent name="biblioteca.repository.repo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\An3\semestru2\VVS\repo\VVSS" />
+      <recent name="E:\An3\semestru2\VVS\repo\VVSS\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\An3\semestru2\VVS\repo\VVSS" />
+      <recent name="E:\An3\semestru2\VVS\repo\VVSS\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BigBangTesting.integrationTesting_P_A_B_C">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="biblioteca.begin.Start" />
+      <module name="VVSS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="biblioteca.begin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigBangTesting.integrationTesting_P_A_B_C" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VVSS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="biblioteca.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="biblioteca.control" />
+      <option name="MAIN_CLASS_NAME" value="biblioteca.control.BigBangTesting" />
+      <option name="METHOD_NAME" value="integrationTesting_P_A_B_C" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopDownTesting.integratePABWithC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VVSS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="biblioteca.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="biblioteca.control" />
+      <option name="MAIN_CLASS_NAME" value="biblioteca.control.TopDownTesting" />
+      <option name="METHOD_NAME" value="integratePABWithC" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopDownTesting.integratePAWithB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VVSS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="biblioteca.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="biblioteca.control" />
+      <option name="MAIN_CLASS_NAME" value="biblioteca.control.TopDownTesting" />
+      <option name="METHOD_NAME" value="integratePAWithB" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopDownTesting.integratePWithA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VVSS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="biblioteca.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="biblioteca.control" />
+      <option name="MAIN_CLASS_NAME" value="biblioteca.control.TopDownTesting" />
+      <option name="METHOD_NAME" value="integratePWithA" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Start" />
+      <item itemvalue="JUnit.BigBangTesting.integrationTesting_P_A_B_C" />
+      <item itemvalue="JUnit.TopDownTesting.integratePWithA" />
+      <item itemvalue="JUnit.TopDownTesting.integratePAWithB" />
+      <item itemvalue="JUnit.TopDownTesting.integratePABWithC" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BigBangTesting.integrationTesting_P_A_B_C" />
+        <item itemvalue="JUnit.TopDownTesting.integratePABWithC" />
+        <item itemvalue="JUnit.TopDownTesting.integratePAWithB" />
+        <item itemvalue="JUnit.TopDownTesting.integratePWithA" />
+        <item itemvalue="Application.Start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b734b3d-8328-407f-9b83-52674c06a0c0" name="Default" comment="" />
+      <created>1552856330307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552856330307</updated>
+      <workItem from="1552856339091" duration="1311000" />
+      <workItem from="1552921882960" duration="10056000" />
+      <workItem from="1553009440545" duration="662000" />
+      <workItem from="1553013948246" duration="1261000" />
+      <workItem from="1553015435812" duration="1334000" />
+      <workItem from="1554146764420" duration="5290000" />
+      <workItem from="1554218379677" duration="2478000" />
+      <workItem from="1555356904232" duration="6146000" />
+      <workItem from="1555430177724" duration="2987000" />
+      <workItem from="1555513645589" duration="113000" />
+      <workItem from="1557052038834" duration="1377000" />
+      <workItem from="1557072303985" duration="5285000" />
+      <workItem from="1557235971292" duration="8789000" />
+      <workItem from="1557246025665" duration="125000" />
+      <workItem from="1557246172872" duration="606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BigBangTesting_integrationTesting_P_A_B_C - 2019.05.07 at 18h 55m 28s.xml">
+      <configuration name="BigBangTesting.integrationTesting_P_A_B_C" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigBangTesting_integrationTesting_P_A_B_C - 2019.05.07 at 18h 55m 42s.xml">
+      <configuration name="BigBangTesting.integrationTesting_P_A_B_C" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopDownTesting_integratePWithA - 2019.05.07 at 18h 58m 48s.xml">
+      <configuration name="TopDownTesting.integratePWithA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopDownTesting_integratePWithA - 2019.05.07 at 18h 59m 58s.xml">
+      <configuration name="TopDownTesting.integratePWithA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopDownTesting_integratePWithA - 2019.05.07 at 19h 00m 05s.xml">
+      <configuration name="TopDownTesting.integratePWithA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopDownTesting_integratePWithA - 2019.05.07 at 19h 00m 27s.xml">
+      <configuration name="TopDownTesting.integratePWithA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopDownTesting_integratePWithA - 2019.05.07 at 19h 04m 57s.xml">
+      <configuration name="TopDownTesting.integratePWithA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopDownTesting_integratePAWithB - 2019.05.07 at 19h 05m 30s.xml">
+      <configuration name="TopDownTesting.integratePAWithB" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TopDownTesting_integratePABWithC - 2019.05.07 at 19h 05m 54s.xml">
+      <configuration name="TopDownTesting.integratePABWithC" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigBangTesting_integrationTesting_P_A_B_C - 2019.05.07 at 19h 06m 44s.xml">
+      <configuration name="BigBangTesting.integrationTesting_P_A_B_C" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="47820000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.83282906" weight="0.21767594" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45499182" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4996016" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4996016" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4977307" weight="0.5744681" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.16717096" side_tool="true" weight="0.0883797" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.26350245" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24940239" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="PlantUML" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.13944224" />
+      <window_info anchor="right" id="Maven" order="10" />
+      <window_info active="true" anchor="right" id="Coverage" order="11" side_tool="true" visible="true" weight="0.1860817" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27912253" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.83282906" visible="true" weight="0.27659574" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4996016" weight="0.32919255" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4996016" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4977307" weight="0.5744681" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.16717096" side_tool="true" weight="0.0883797" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.26350245" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24940239" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="PlantUML" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.13944224" />
+      <window_info anchor="right" id="Maven" order="10" />
+      <window_info active="true" anchor="right" id="Coverage" order="11" side_tool="true" visible="true" weight="0.1860817" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/biblioteca/view/Consola.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/biblioteca/view/Consola.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cpir2084$biblioteca_control_in_VVSS.ic" NAME="biblioteca.control in VVSS Coverage Results" MODIFIED="1555433109720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>biblioteca.control.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cpir2084$CartiRepoMockTest.ic" NAME="CartiRepoMockTest Coverage Results" MODIFIED="1555433353027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>biblioteca.repository.repoMock.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cpir2084$biblioteca_repository_in_VVSS.ic" NAME="biblioteca.repository in VVSS Coverage Results" MODIFIED="1555432945426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>biblioteca.control.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cpir2084$biblioteca_repository_repoMock.ic" NAME="biblioteca.repository.repoMock Coverage Results" MODIFIED="1555432987489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>biblioteca.control.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/cpir2084MV/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cpir2084MV/App.java" />
+    <entry file="file://$PROJECT_DIR$/VVSS.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/String.java" />
+    <entry file="uml://JAVA/biblioteca">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>biblioteca</OriginalElement>
+          <nodes>
+            <node x="323.8310415521471" y="870.7494383028369">biblioteca.util.CarteValidator</node>
+            <node x="40.95416297257566" y="588.002993719741">biblioteca.model.Carte</node>
+            <node x="621.3362149141149" y="832.5838434548881">biblioteca.control.BibliotecaCtrl</node>
+            <node x="0.0" y="245.7192915935576">biblioteca.repository.repoMock.CartiRepoMock</node>
+            <node x="632.3974748442838" y="0.0">biblioteca.repository.repo.CartiRepoFile</node>
+            <node x="261.83071074344684" y="14.252172355329492">biblioteca.repository.repoInterfaces.CartiRepoInterface</node>
+            <node x="901.3850965228593" y="303.2338245131558">biblioteca.begin.Start</node>
+            <node x="887.1271874548463" y="492.2634240467795">biblioteca.view.Consola</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="biblioteca.view.Consola" target="biblioteca.model.Carte">
+              <point x="0.6182087302959189" y="4.9616346062347105" />
+              <point x="0.6182087302959189" y="4.961634606234725" />
+            </edge>
+            <edge source="biblioteca.repository.repo.CartiRepoFile" target="biblioteca.model.Carte">
+              <point x="3.547118492908396" y="3.5239112357247677" />
+              <point x="3.547118492908396" y="3.5239112357247677" />
+            </edge>
+            <edge source="biblioteca.begin.Start" target="biblioteca.repository.repoInterfaces.CartiRepoInterface">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="biblioteca.util.CarteValidator" target="biblioteca.model.Carte">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="biblioteca.control.BibliotecaCtrl" target="biblioteca.util.CarteValidator">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="biblioteca.repository.repoInterfaces.CartiRepoInterface" target="biblioteca.model.Carte">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="biblioteca.begin.Start" target="biblioteca.repository.repo.CartiRepoFile">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="biblioteca.view.Consola" target="biblioteca.control.BibliotecaCtrl">
+              <point x="-6.36811265001478" y="0.0" />
+              <point x="-6.3681126500146945" y="0.0" />
+            </edge>
+            <edge source="biblioteca.begin.Start" target="biblioteca.view.Consola">
+              <point x="-5.028787884738961" y="0.0" />
+              <point x="-5.028787884738961" y="0.0" />
+            </edge>
+            <edge source="biblioteca.repository.repoMock.CartiRepoMock" target="biblioteca.model.Carte">
+              <point x="10.008525506559693" y="0.0" />
+              <point x="10.008525506559693" y="0.0" />
+            </edge>
+            <edge source="biblioteca.begin.Start" target="biblioteca.control.BibliotecaCtrl">
+              <point x="4.724595677878369" y="1.6365193798343114" />
+              <point x="4.724595677878341" y="1.636519379834283" />
+            </edge>
+            <edge source="biblioteca.control.BibliotecaCtrl" target="biblioteca.repository.repoInterfaces.CartiRepoInterface">
+              <point x="5.4573942294039455" y="0.0" />
+              <point x="5.457394229403917" y="0.0" />
+            </edge>
+            <edge source="biblioteca.repository.repo.CartiRepoFile" target="biblioteca.repository.repoInterfaces.CartiRepoInterface">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="biblioteca.repository.repoMock.CartiRepoMock" target="biblioteca.repository.repoInterfaces.CartiRepoInterface">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="biblioteca.control.BibliotecaCtrl" target="biblioteca.model.Carte">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9" x="175.0" y="549.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/biblioteca/repository/repo/CartiRepoFileTest.java" />
+    <entry file="file://$PROJECT_DIR$/cartiBD.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/biblioteca/lab4/BigBangTesting.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/repository/repoInterfaces/CartiRepoInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/repository/repoMock/CartiRepoMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="101" column="9" selection-start-line="101" selection-start-column="9" selection-end-line="101" selection-end-column="9" />
+          <folding>
+            <element signature="e#1589#1590#0" expanded="true" />
+            <element signature="e#1617#1618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/repository/repo/CartiRepoFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="135" column="9" selection-start-line="135" selection-start-column="9" selection-end-line="135" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/biblioteca/control/BibliotecaCtrlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="154" column="4" selection-start-line="154" selection-start-column="4" selection-end-line="154" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.9.5/mockito-all-1.9.5.jar!/org/mockito/Mock.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Programe/Java/src.zip!/java/io/ByteArrayInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/model/Carte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/control/BibliotecaCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/view/Consola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/util/CarteValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="e#1360#1361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/biblioteca/begin/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/biblioteca/repository/repoMock/CartiRepoMockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/biblioteca/control/BigBangTesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/biblioteca/control/TopDownTesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33444443" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33444443" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33444443" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33444443" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>VVSS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33444443" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gson-1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33444443" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
